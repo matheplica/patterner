@@ -13,7 +13,7 @@ int nextX, nextY;
 int theWay;
 void setup() {
     size(1080, 390, P2D);
-    surface.setTitle("Patterner by matheynen");
+    surface.setTitle("Patterner by matheplica");
     cp5 = new ControlP5(this);
     smooth();
     pg = createGraphics(780, 390, P2D);
